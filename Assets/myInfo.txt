@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "userName": "변동환0",
+            "age": 28,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "변동환1",
+            "age": 28,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "변동환2",
+            "age": 28,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "변동환3",
+            "age": 28,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "변동환4",
+            "age": 28,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "변동환5",
+            "age": 28,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "변동환6",
+            "age": 28,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "변동환7",
+            "age": 28,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "변동환8",
+            "age": 28,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "변동환9",
+            "age": 28,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        }
+    ]
+}
